@@ -1,0 +1,5 @@
+This is a test file.
+
+This serves as a placeholder for a file that can be accessed via file path traversal.
+
+If you can read me, the vulnerability has been exploited.
